@@ -1,5 +1,5 @@
 # Authcord
-
+**This repository is a template. The original repository is to be kept private by request of the instructor.**
 ## Deployment
 
 - Set `USE_PROD` config var
